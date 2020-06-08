@@ -1,6 +1,6 @@
 # 使用方式
 ```
-git clone + 地址
+git clone git@github.com:mystic3333/epub_mpvue_project.git
 
 npm install 
 
